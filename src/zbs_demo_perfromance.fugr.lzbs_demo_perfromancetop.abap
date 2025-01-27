@@ -1,0 +1,3 @@
+FUNCTION-POOL ZBS_DEMO_PERFROMANCE.         "MESSAGE-ID ..
+
+* INCLUDE LZBS_DEMO_PERFROMANCED...          " Local class definition

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Perfromance Data'
+define service ZBS_DEMO_PERFROMANCE_DATA {
+  expose ZBS_R_DMOPerformance as Perfromance;
+}
